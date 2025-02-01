@@ -13,7 +13,7 @@
 * A nice and friendly UI
 
 ## The website is live, link:
-ftsenas.github.io/Westview-Academy-/
+https://ftsenas.github.io/Westview-Academy-/
 
 
 # Happy coding...
