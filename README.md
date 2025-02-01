@@ -1,6 +1,9 @@
 # Westview-Academy-
 
-<img src="images/school/student1.png" alt="Westview Academy">
+<div class="" style="float: right;">
+  <img style="width: 30px; height: 60px;" src="images/school/student1.png" alt="Westview Academy">
+</div>
+
 
 ## Westview Academy portfolio website.
 
