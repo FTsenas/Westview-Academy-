@@ -1,6 +1,6 @@
 # Westview-Academy-
 
-<img src="images/school/student1.jpg" alt="Westview Academy">
+<img src="images/school/student1.png" alt="Westview Academy">
 
 ## Westview Academy portfolio website.
 
