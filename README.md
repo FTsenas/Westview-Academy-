@@ -1,7 +1,7 @@
 # Westview-Academy-
 
 
-  <img style="width: 100px; height: 200px;" src="images/school/student1.png" alt="Westview Academy">
+  <img style="width: 130px; height: 200px;" src="images/school/student1.png" alt="Westview Academy">
 
 
 ## Westview Academy portfolio website.
