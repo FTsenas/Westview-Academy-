@@ -1,4 +1,4 @@
-# NB: This is just a to do project with no relation to any real academy.
+# NB: This is just a to do project with no relation to any site of a real school or institution.
 
 # Westview-Academy-
 
