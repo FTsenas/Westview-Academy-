@@ -1,3 +1,5 @@
+# NB: This is just a to do project with no relation to any real academy.
+
 # Westview-Academy-
 
 
